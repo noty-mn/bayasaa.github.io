@@ -175,6 +175,23 @@ html{
                 padding-top: 100px;
                 font-size: 50px;
             }
+            .button-1{
+                width: 70%;
+                margin-left: 15%;
+                margin-top: 50vh;
+                display: flex;
+                justify-content: space-evenly;
+                a{
+                text-align: center;
+                font-size: 20px;
+                color: #fff;
+                text-decoration: none;
+                padding-bottom: 5px;
+                }
+                a:hover{
+                    border-bottom: 5px #ffffff solid;
+                }
+            }
         }
     }
 }
