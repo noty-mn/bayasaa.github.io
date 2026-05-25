@@ -58,7 +58,7 @@ html{
         .about-long{
             width: 50%;
             height: 100vh;
-            background: #000000;
+            background: #024768;
             p{
                 color: #fff;
                 font-size: 50px;
@@ -109,6 +109,18 @@ html{
         border-radius: 5%;
     }
 }
+.profile-img1{
+    width: 50%;
+    height: 60%;
+    margin-left: 24%;
+    margin-top: 1vh;
+    img{
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+        border-radius: 5%;
+    }
+}
 .images-cont{
     .images{
         display: flex;
@@ -125,7 +137,7 @@ html{
         .images-scroll{
             width: 50%;
             height: 100vh;
-            background-color: #050047;
+            background-color: rgb(239 159 126);
             p{
                 color: #fff;
                 text-align: center;
@@ -135,7 +147,7 @@ html{
             .button-1{
                 width: 70%;
                 margin-left: 15%;
-                margin-top: 50vh;
+                margin-top: 5vh;
                 display: flex;
                 justify-content: space-evenly;
                 a{
@@ -178,7 +190,7 @@ html{
             .button-1{
                 width: 70%;
                 margin-left: 15%;
-                margin-top: 50vh;
+                margin-top: 5vh;
                 display: flex;
                 justify-content: space-evenly;
                 a{
